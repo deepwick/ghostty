@@ -1,0 +1,24 @@
+# Deepwick for Ghostty
+background = #04041a
+foreground = #D4D4D4
+cursor-color = #D4D4D4
+cursor-text = #04041a
+selection-background = #264F78
+selection-foreground = #D4D4D4
+split-divider-color = #1B2140
+palette = 0=#1B2140
+palette = 1=#F44747
+palette = 2=#57A64A
+palette = 3=#DCDCAA
+palette = 4=#569CD6
+palette = 5=#C586C0
+palette = 6=#4EC9B0
+palette = 7=#D4D4D4
+palette = 8=#6E7899
+palette = 9=#FF7A7A
+palette = 10=#7FC46E
+palette = 11=#F2F2C4
+palette = 12=#9CDCFE
+palette = 13=#E0A8DC
+palette = 14=#7FE5CF
+palette = 15=#FFFFFF
